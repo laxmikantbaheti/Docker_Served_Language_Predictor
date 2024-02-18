@@ -17,6 +17,16 @@ However, the text is also preprocessed before vectorization. The preprocessing s
     - Lemmatization
 
 Never-the-less, this project is aimed to demomstrate the deployment of a machine learning model
-through rest APIs. For this purpose we use FastAPI framework to develop an application. The application 
+through rest APIs. The model in this case is pre-trained, and saved as a pickle file in the model 
+directory. For this purpose we use FastAPI framework to develop an application. The application 
 is also dockerized. The docker image can be run on your local machine mapping to a local port, 
 to validate the functionalities demonstrated in this project.
+
+
+Please follow the instructions below to run the application on your local machine:
+
+## Step I:
+
+Clone the repository on your local machine. Use the following command to clone the repository:
+
+```bash git clone https://github.com/laxmikantbaheti/Docker_Served_Language_Predictor.git
