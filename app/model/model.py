@@ -1,6 +1,7 @@
 import pickle
 import re
 from pathlib import Path
+import sklearn
 
 __version__ = "0.1.0"
 
