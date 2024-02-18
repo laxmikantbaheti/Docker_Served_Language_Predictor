@@ -27,6 +27,12 @@ Please follow the instructions below to run the application on your local machin
 
 ## Step I:
 
+---
+Please make sure you have docker installed and set up in your local system.
+---
+
 Clone the repository on your local machine. Use the following command to clone the repository:
 
-```bash git clone https://github.com/laxmikantbaheti/Docker_Served_Language_Predictor.git
+```bash 
+git clone https://github.com/laxmikantbaheti/Docker_Served_Language_Predictor.git
+
